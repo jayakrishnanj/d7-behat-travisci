@@ -11,6 +11,7 @@ Given I am viewing my "Article" node with the title "My latest blog"
 Given "Page" nodes:
 | title      | body                    |
 | About      | An about page           |
+| author     |  Romisha                |
 | Contact Us | Our contact information |
 Given I am viewing an "article" node:
 | title       | My title             |
